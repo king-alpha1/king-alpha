@@ -97,5 +97,5 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ## Then deploy bot from here
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
+[![Deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fking-alpha1%2Fking-alpha&template=https%3A%2F%2Fgithub.com%2FSampandey001%2FZero-Two-Md)
 
