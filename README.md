@@ -7,6 +7,18 @@
 
 > [Automated Multi Device whatsapp bot created](https://github.com/kingalexa/Gojo-Satoru) by [kingalexa](github.com/nexusNw)
 
+[### How to enable Zero-Two On your number
+-   First Open `Github Link Of Zero Two`
+-  Click on Fork Button upwards right corner
+-  Click on deploy button and Fill `Config Vars` ,process may take upto 10 min
+- `Open Heroku` > `choose app` > `Resources` > `Tap on Pencil` and `Turn on Dynos`
+-  Wait 12 second and Tap on `Open App`
+-  Scan Qr and your bot is working now
+-  type -session and you'll get your session.sam.json file at your log number
+-  Go in your forked repo tap on `Upload Files` and upload your session.sam.json
+-  Connect Your app with GitHub and deploy branch and it's `Done`.
+
+- `Thank me later
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
 > If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/kingalexa/Gojo-Satoru/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
