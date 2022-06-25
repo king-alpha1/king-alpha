@@ -54,10 +54,10 @@ global.pengguna = '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝' //username
 global.mongodb = process.env.MONGODB || "NO-URI"
 
 global.port = process.env.PORT || 5000
-global.botnma = process.env.botnma || '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝'//bot name
+global.botnma = process.env.botnma || 'queen-alexa'//bot name
 global.watermark = "ENJOY WITH ZERO TWO"
 global.dogeemoji = "✨"
-global.botname = process.env.botnamw || '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝'
+global.botname = process.env.botnamw || 'queen-alexa'
 global.ownernma = 'Ikshwaku Pandey' //owner name
 global.ownername = process.env.ownername || 'Ikshwaku Pandey' //owner name
 global.packname = 'Zero-Two' //sticker package name
